@@ -8,12 +8,13 @@
 
 This one simply is teaching us to use exiftool.
 
-![](C:\Users\Razlan\AppData\Roaming\marktext\images\2025-11-21-01-52-18-image.png)
+![](2025-11-21-01-52-18-image.png)
 
 As you can see we already got the base64. Throw inside cyberchef and thats it.
 
 
 
 > Flag: picoCTF{puzzl3d_m3tadata_f0und!_c8f91d68}
+
 
 
