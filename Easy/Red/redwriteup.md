@@ -1,4 +1,4 @@
-# RED
+# RED Writeup
 
 > Description
 > 
@@ -27,6 +27,7 @@ Just throw those inside cyberchef and get the flag!
 
 
 > picoCTF{r3d_1s_th3_ult1m4t3_cur3_f0r_54dn355_}
+
 
 
 
